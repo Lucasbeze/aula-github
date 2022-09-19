@@ -6,9 +6,17 @@ Neste Stage eu aprendi os seguintes recursos:
 
 
 
-- Git initialization
-- Git Add and Commit changes
-- Show commit logs
+- O que é o Git & Github
+- Aprendi a criar a minha própria conta
+- Editar meu perfil público
+- Criar repositórios
+- Fazer Push das alterações 
+- Utilizar os arquivos Gitignore e Gitkeep
+- Visualizar o histórico de modificações
+- Utilizar o Git Clone
+- Aprendi a utilizar o Git Pull
+- Mudar a visibilidade do repositório
+- E a criar e customizar o meu README
 
 
 ## 🔗 Links
